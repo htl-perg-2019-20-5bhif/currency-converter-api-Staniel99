@@ -1,0 +1,8 @@
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\obj\Debug\netstandard2.1\CurrencyConverterLib.csprojAssemblyReference.cache
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\obj\Debug\netstandard2.1\CurrencyConverterLib.AssemblyInfoInputs.cache
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\obj\Debug\netstandard2.1\CurrencyConverterLib.AssemblyInfo.cs
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\bin\Debug\netstandard2.1\CurrencyConverterLib.deps.json
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\bin\Debug\netstandard2.1\CurrencyConverterLib.dll
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\bin\Debug\netstandard2.1\CurrencyConverterLib.pdb
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\obj\Debug\netstandard2.1\CurrencyConverterLib.dll
+D:\5BHIF\MC\currency-converter-api-Staniel99\CurrencyConverter\CurrencyConverterLib\obj\Debug\netstandard2.1\CurrencyConverterLib.pdb
